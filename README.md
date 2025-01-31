@@ -1,2 +1,2 @@
-# ProyectoGitLuisPe-a
+# ProyectoCommitbasicoLuisPeña
 Tarea de Acropolis
